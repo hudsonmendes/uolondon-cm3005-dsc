@@ -394,3 +394,39 @@ Iteration 9, loss = 133834685013.78202820
 Iteration 10, loss = 133830150731.00544739
 /Users/hudsonmendes/Workspaces/hudsonmendes-estudos/cm3005-dsc/venv/lib/python3.8/site-packages/sklearn/neural_network/_multilayer_perceptron.py:679: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.
   warnings.warn(
+Iteration 1, loss = 94001327939.30050659
+Iteration 2, loss = 69039226303.38726807
+Iteration 3, loss = 64937974839.38049316
+Iteration 4, loss = 60571096639.36292267
+Iteration 5, loss = 57098994900.72781372
+Iteration 6, loss = 55057909808.40676117
+Iteration 7, loss = 53652707809.08961487
+Iteration 8, loss = 52543361815.30083466
+Iteration 9, loss = 51480156771.26219940
+Iteration 10, loss = 50561505261.36031342
+/Users/hudsonmendes/Workspaces/hudsonmendes-estudos/cm3005-dsc/venv/lib/python3.8/site-packages/sklearn/neural_network/_multilayer_perceptron.py:679: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.
+  warnings.warn(
+Iteration 1, loss = 100858498937.99244690
+Iteration 2, loss = 75910619744.32142639
+Iteration 3, loss = 71862857667.26657104
+Iteration 4, loss = 67636639126.57859039
+Iteration 5, loss = 64138962431.37984467
+Iteration 6, loss = 62141710335.56407928
+Iteration 7, loss = 60674944309.54010010
+Iteration 8, loss = 59390091362.88900757
+Iteration 9, loss = 58265592912.62122345
+Iteration 10, loss = 57256021795.55280304
+/Users/hudsonmendes/Workspaces/hudsonmendes-estudos/cm3005-dsc/venv/lib/python3.8/site-packages/sklearn/neural_network/_multilayer_perceptron.py:679: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.
+  warnings.warn(
+Iteration 1, loss = 102794716847.59265137
+Iteration 2, loss = 77646944569.97770691
+Iteration 3, loss = 73234190463.64868164
+Iteration 4, loss = 68757960803.58193970
+Iteration 5, loss = 65508687205.36771393
+Iteration 6, loss = 63649452304.23739624
+Iteration 7, loss = 62422216341.36980438
+Iteration 8, loss = 61509252108.87471771
+Iteration 9, loss = 60774095258.45455933
+Iteration 10, loss = 60147697574.68700409
+/Users/hudsonmendes/Workspaces/hudsonmendes-estudos/cm3005-dsc/venv/lib/python3.8/site-packages/sklearn/neural_network/_multilayer_perceptron.py:679: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (10) reached and the optimization hasn't converged yet.
+  warnings.warn(
