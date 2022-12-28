@@ -1,0 +1,2 @@
+rank_test_score,param_linearregression__fit_intercept,param_polynomialfeatures__degree,param_truncatedsvd__n_components,mean_test_score,std_test_score,mean_fit_time,std_fit_time,mean_score_time,std_score_time,split0_test_score,split1_test_score,split2_test_score,split3_test_score,split4_test_score
+1,False,1,1,-173341.91368420288,206.79849685205096,11.803595876693725,0.6565763092291665,1.883736753463745,0.21129342325107414,-173544.85065506597,-173245.9570991236,-173253.02431512543,-173611.5903033893,-173054.14604831
