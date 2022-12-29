@@ -1,0 +1,4 @@
+,0
+linearregression__fit_intercept,False
+polynomialfeatures__degree,4
+truncatedsvd__n_components,4

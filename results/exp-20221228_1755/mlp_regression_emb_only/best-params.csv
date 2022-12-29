@@ -1,0 +1,5 @@
+,0
+mlpregressor__alpha,0.01
+mlpregressor__hidden_layer_sizes,"(2,)"
+mlpregressor__max_iter,25
+mlpregressor__solver,adam
