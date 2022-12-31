@@ -1,0 +1,22 @@
+[svd_polynomial_regression_lg]
+Fitting 5 folds for each of 4 candidates, totalling 20 fits
+[CV 1/5] END linearregression__fit_intercept=True, polynomialfeatures__degree=4, truncatedsvd__n_components=4;, score=-1.088 total time=  55.4s
+[CV 2/5] END linearregression__fit_intercept=True, polynomialfeatures__degree=4, truncatedsvd__n_components=4;, score=-1.449 total time=  50.3s
+[CV 3/5] END linearregression__fit_intercept=True, polynomialfeatures__degree=4, truncatedsvd__n_components=4;, score=-2.323 total time=  50.7s
+[CV 4/5] END linearregression__fit_intercept=True, polynomialfeatures__degree=4, truncatedsvd__n_components=4;, score=-0.801 total time=  48.4s
+[CV 5/5] END linearregression__fit_intercept=True, polynomialfeatures__degree=4, truncatedsvd__n_components=4;, score=-1.317 total time=  46.6s
+[CV 1/5] END linearregression__fit_intercept=True, polynomialfeatures__degree=4, truncatedsvd__n_components=5;, score=-1.105 total time= 3.1min
+[CV 2/5] END linearregression__fit_intercept=True, polynomialfeatures__degree=4, truncatedsvd__n_components=5;, score=-1.618 total time= 2.8min
+[CV 3/5] END linearregression__fit_intercept=True, polynomialfeatures__degree=4, truncatedsvd__n_components=5;, score=-2.296 total time= 2.6min
+[CV 4/5] END linearregression__fit_intercept=True, polynomialfeatures__degree=4, truncatedsvd__n_components=5;, score=-0.791 total time= 2.7min
+[CV 5/5] END linearregression__fit_intercept=True, polynomialfeatures__degree=4, truncatedsvd__n_components=5;, score=-1.275 total time= 2.7min
+[CV 1/5] END linearregression__fit_intercept=False, polynomialfeatures__degree=4, truncatedsvd__n_components=4;, score=-1.061 total time=  43.0s
+[CV 2/5] END linearregression__fit_intercept=False, polynomialfeatures__degree=4, truncatedsvd__n_components=4;, score=-1.467 total time=  43.7s
+[CV 3/5] END linearregression__fit_intercept=False, polynomialfeatures__degree=4, truncatedsvd__n_components=4;, score=-2.317 total time=  51.9s
+[CV 4/5] END linearregression__fit_intercept=False, polynomialfeatures__degree=4, truncatedsvd__n_components=4;, score=-0.801 total time=  41.5s
+[CV 5/5] END linearregression__fit_intercept=False, polynomialfeatures__degree=4, truncatedsvd__n_components=4;, score=-1.299 total time=  41.8s
+[CV 1/5] END linearregression__fit_intercept=False, polynomialfeatures__degree=4, truncatedsvd__n_components=5;, score=-1.096 total time= 2.8min
+[CV 2/5] END linearregression__fit_intercept=False, polynomialfeatures__degree=4, truncatedsvd__n_components=5;, score=-1.601 total time= 2.2min
+[CV 3/5] END linearregression__fit_intercept=False, polynomialfeatures__degree=4, truncatedsvd__n_components=5;, score=-2.321 total time= 2.0min
+[CV 4/5] END linearregression__fit_intercept=False, polynomialfeatures__degree=4, truncatedsvd__n_components=5;, score=-0.791 total time= 2.1min
+[CV 5/5] END linearregression__fit_intercept=False, polynomialfeatures__degree=4, truncatedsvd__n_components=5;, score=-1.290 total time= 2.1min

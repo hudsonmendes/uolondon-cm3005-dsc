@@ -1,0 +1,9 @@
+/var/folders/gt/j16393sd52s3xsm_3fsd_3qr0000gn/T/ipykernel_22899/1565712382.py:4: FutureWarning: The behavior of `series[i:j]` with an integer-dtype index is deprecated. In a future version, this will be treated as *label-based* indexing, consistent with e.g. `series[i]` lookups. To retain the old behavior, use `series.iloc[i:j]`. To get the future behavior, use `series.loc[i:j]`.
+  training_data=(X1[0:5000], y1[0:5000]),
+[svd_polynomial_regression_canary]
+Fitting 5 folds for each of 1 candidates, totalling 5 fits
+[CV 1/5] END linearregression__fit_intercept=False, polynomialfeatures__degree=1, truncatedsvd__n_components=1;, score=-0.836 total time=   0.1s
+[CV 2/5] END linearregression__fit_intercept=False, polynomialfeatures__degree=1, truncatedsvd__n_components=1;, score=-0.892 total time=   0.0s
+[CV 3/5] END linearregression__fit_intercept=False, polynomialfeatures__degree=1, truncatedsvd__n_components=1;, score=-0.837 total time=   0.1s
+[CV 4/5] END linearregression__fit_intercept=False, polynomialfeatures__degree=1, truncatedsvd__n_components=1;, score=-0.803 total time=   0.1s
+[CV 5/5] END linearregression__fit_intercept=False, polynomialfeatures__degree=1, truncatedsvd__n_components=1;, score=-0.799 total time=   0.1s

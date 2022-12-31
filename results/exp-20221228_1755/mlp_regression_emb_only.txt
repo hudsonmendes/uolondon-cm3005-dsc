@@ -1,0 +1,122 @@
+[mlp_regression_emb_only]
+Fitting 5 folds for each of 24 candidates, totalling 120 fits
+[CV 1/5] END mlpregressor__alpha=0.0001, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-1.040 total time= 4.0min
+[CV 2/5] END mlpregressor__alpha=0.0001, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-1.505 total time= 6.2min
+[CV 3/5] END mlpregressor__alpha=0.0001, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-1.000 total time= 3.3min
+[CV 4/5] END mlpregressor__alpha=0.0001, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-0.692 total time= 3.9min
+[CV 5/5] END mlpregressor__alpha=0.0001, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-1.286 total time= 3.8min
+[CV 1/5] END mlpregressor__alpha=0.0001, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-1.001 total time=  30.1s
+[CV 2/5] END mlpregressor__alpha=0.0001, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-1.568 total time=  25.8s
+[CV 3/5] END mlpregressor__alpha=0.0001, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-2.319 total time=  34.7s
+[CV 4/5] END mlpregressor__alpha=0.0001, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-0.633 total time=  28.2s
+[CV 5/5] END mlpregressor__alpha=0.0001, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-1.237 total time=  30.8s
+[CV 1/5] END mlpregressor__alpha=0.0001, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-1.090 total time= 9.5min
+[CV 2/5] END mlpregressor__alpha=0.0001, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-1.506 total time= 9.1min
+[CV 3/5] END mlpregressor__alpha=0.0001, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-2.183 total time= 8.2min
+[CV 4/5] END mlpregressor__alpha=0.0001, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-0.635 total time= 8.4min
+[CV 5/5] END mlpregressor__alpha=0.0001, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-1.385 total time=10.0min
+[CV 1/5] END mlpregressor__alpha=0.0001, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-0.844 total time=  32.4s
+[CV 2/5] END mlpregressor__alpha=0.0001, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-1.902 total time=  30.1s
+[CV 3/5] END mlpregressor__alpha=0.0001, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-2.032 total time=  33.1s
+[CV 4/5] END mlpregressor__alpha=0.0001, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-0.791 total time=  34.6s
+[CV 5/5] END mlpregressor__alpha=0.0001, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-0.656 total time=  28.9s
+[CV 1/5] END mlpregressor__alpha=0.0001, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-0.982 total time=13.5min
+[CV 2/5] END mlpregressor__alpha=0.0001, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-1.375 total time=10.0min
+[CV 3/5] END mlpregressor__alpha=0.0001, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-2.217 total time=15.1min
+[CV 4/5] END mlpregressor__alpha=0.0001, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-0.553 total time= 9.8min
+[CV 5/5] END mlpregressor__alpha=0.0001, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-1.189 total time=14.2min
+[CV 1/5] END mlpregressor__alpha=0.0001, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-0.826 total time=  46.4s
+[CV 2/5] END mlpregressor__alpha=0.0001, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-1.639 total time=  55.4s
+[CV 3/5] END mlpregressor__alpha=0.0001, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-1.622 total time=  51.0s
+[CV 4/5] END mlpregressor__alpha=0.0001, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-0.718 total time=  54.0s
+[CV 5/5] END mlpregressor__alpha=0.0001, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-1.220 total time=  46.2s
+[CV 1/5] END mlpregressor__alpha=0.001, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-1.040 total time= 3.8min
+[CV 2/5] END mlpregressor__alpha=0.001, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-1.505 total time= 6.2min
+[CV 3/5] END mlpregressor__alpha=0.001, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-1.000 total time= 3.3min
+[CV 4/5] END mlpregressor__alpha=0.001, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-0.748 total time= 6.2min
+[CV 5/5] END mlpregressor__alpha=0.001, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-1.286 total time= 3.9min
+[CV 1/5] END mlpregressor__alpha=0.001, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-1.001 total time=  31.2s
+[CV 2/5] END mlpregressor__alpha=0.001, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-1.568 total time=  25.6s
+[CV 3/5] END mlpregressor__alpha=0.001, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-2.313 total time=  33.7s
+[CV 4/5] END mlpregressor__alpha=0.001, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-0.633 total time=  28.2s
+[CV 5/5] END mlpregressor__alpha=0.001, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-1.237 total time=  29.0s
+[CV 1/5] END mlpregressor__alpha=0.001, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-1.090 total time= 9.0min
+[CV 2/5] END mlpregressor__alpha=0.001, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-1.506 total time=10.3min
+[CV 3/5] END mlpregressor__alpha=0.001, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-2.183 total time= 9.7min
+[CV 4/5] END mlpregressor__alpha=0.001, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-0.606 total time= 5.5min
+[CV 5/5] END mlpregressor__alpha=0.001, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-1.385 total time=11.6min
+[CV 1/5] END mlpregressor__alpha=0.001, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-0.844 total time=  39.2s
+[CV 2/5] END mlpregressor__alpha=0.001, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-1.902 total time=  38.4s
+[CV 3/5] END mlpregressor__alpha=0.001, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-2.032 total time=  41.6s
+[CV 4/5] END mlpregressor__alpha=0.001, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-0.791 total time=  42.0s
+[CV 5/5] END mlpregressor__alpha=0.001, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-0.656 total time=  34.6s
+[CV 1/5] END mlpregressor__alpha=0.001, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-0.973 total time=14.8min
+[CV 2/5] END mlpregressor__alpha=0.001, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-1.375 total time=11.2min
+[CV 3/5] END mlpregressor__alpha=0.001, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-2.217 total time=15.5min
+[CV 4/5] END mlpregressor__alpha=0.001, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-0.553 total time=10.0min
+[CV 5/5] END mlpregressor__alpha=0.001, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-1.189 total time=14.8min
+[CV 1/5] END mlpregressor__alpha=0.001, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-0.826 total time=  53.9s
+[CV 2/5] END mlpregressor__alpha=0.001, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-1.639 total time= 1.0min
+[CV 3/5] END mlpregressor__alpha=0.001, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-1.622 total time=  58.2s
+[CV 4/5] END mlpregressor__alpha=0.001, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-0.718 total time= 1.0min
+[CV 5/5] END mlpregressor__alpha=0.001, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-1.220 total time=  55.3s
+[CV 1/5] END mlpregressor__alpha=0.01, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-1.040 total time= 4.7min
+[CV 2/5] END mlpregressor__alpha=0.01, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-1.505 total time= 7.6min
+[CV 3/5] END mlpregressor__alpha=0.01, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-1.000 total time= 3.8min
+[CV 4/5] END mlpregressor__alpha=0.01, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-0.690 total time= 4.1min
+[CV 5/5] END mlpregressor__alpha=0.01, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-1.286 total time= 4.1min
+[CV 1/5] END mlpregressor__alpha=0.01, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-1.001 total time=  32.1s
+[CV 2/5] END mlpregressor__alpha=0.01, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-1.568 total time=  28.4s
+[CV 3/5] END mlpregressor__alpha=0.01, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-2.291 total time=  39.6s
+[CV 4/5] END mlpregressor__alpha=0.01, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-0.633 total time=  32.6s
+[CV 5/5] END mlpregressor__alpha=0.01, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-1.237 total time=  31.6s
+[CV 1/5] END mlpregressor__alpha=0.01, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-1.090 total time= 9.9min
+[CV 2/5] END mlpregressor__alpha=0.01, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-1.506 total time= 9.5min
+[CV 3/5] END mlpregressor__alpha=0.01, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-2.183 total time= 8.4min
+[CV 4/5] END mlpregressor__alpha=0.01, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-0.606 total time= 4.4min
+[CV 5/5] END mlpregressor__alpha=0.01, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-1.385 total time= 9.6min
+[CV 1/5] END mlpregressor__alpha=0.01, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-0.844 total time=  33.4s
+[CV 2/5] END mlpregressor__alpha=0.01, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-1.902 total time=  31.6s
+[CV 3/5] END mlpregressor__alpha=0.01, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-2.032 total time=  34.9s
+[CV 4/5] END mlpregressor__alpha=0.01, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-0.791 total time=  34.8s
+[CV 5/5] END mlpregressor__alpha=0.01, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-0.656 total time=  30.6s
+[CV 1/5] END mlpregressor__alpha=0.01, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-0.982 total time=14.4min
+[CV 2/5] END mlpregressor__alpha=0.01, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-1.354 total time= 9.6min
+[CV 3/5] END mlpregressor__alpha=0.01, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-2.217 total time=16.1min
+[CV 4/5] END mlpregressor__alpha=0.01, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-0.553 total time=10.3min
+[CV 5/5] END mlpregressor__alpha=0.01, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-1.189 total time=14.9min
+[CV 1/5] END mlpregressor__alpha=0.01, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-0.826 total time=  46.4s
+[CV 2/5] END mlpregressor__alpha=0.01, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-1.639 total time=  53.8s
+[CV 3/5] END mlpregressor__alpha=0.01, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-1.622 total time=  50.2s
+[CV 4/5] END mlpregressor__alpha=0.01, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-0.718 total time=  52.1s
+[CV 5/5] END mlpregressor__alpha=0.01, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-1.220 total time=  47.6s
+[CV 1/5] END mlpregressor__alpha=0.1, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-1.040 total time= 3.8min
+[CV 2/5] END mlpregressor__alpha=0.1, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-1.505 total time= 4.1min
+[CV 3/5] END mlpregressor__alpha=0.1, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-1.000 total time= 2.2min
+[CV 4/5] END mlpregressor__alpha=0.1, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-0.748 total time= 4.1min
+[CV 5/5] END mlpregressor__alpha=0.1, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-1.286 total time= 3.8min
+[CV 1/5] END mlpregressor__alpha=0.1, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-1.001 total time=  30.8s
+[CV 2/5] END mlpregressor__alpha=0.1, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-1.568 total time=  27.2s
+[CV 3/5] END mlpregressor__alpha=0.1, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-2.327 total time=  36.1s
+[CV 4/5] END mlpregressor__alpha=0.1, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-0.633 total time=  29.1s
+[CV 5/5] END mlpregressor__alpha=0.1, mlpregressor__hidden_layer_sizes=(2,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-1.237 total time=  29.9s
+[CV 1/5] END mlpregressor__alpha=0.1, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-1.090 total time= 5.0min
+[CV 2/5] END mlpregressor__alpha=0.1, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-1.506 total time= 4.8min
+[CV 3/5] END mlpregressor__alpha=0.1, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-2.183 total time= 4.4min
+[CV 4/5] END mlpregressor__alpha=0.1, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-0.606 total time= 4.1min
+[CV 5/5] END mlpregressor__alpha=0.1, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-1.385 total time= 4.8min
+[CV 1/5] END mlpregressor__alpha=0.1, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-0.844 total time=  32.2s
+[CV 2/5] END mlpregressor__alpha=0.1, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-1.902 total time=  32.5s
+[CV 3/5] END mlpregressor__alpha=0.1, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-2.032 total time=  35.6s
+[CV 4/5] END mlpregressor__alpha=0.1, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-0.791 total time=  35.6s
+[CV 5/5] END mlpregressor__alpha=0.1, mlpregressor__hidden_layer_sizes=(4,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-0.656 total time=  29.2s
+[CV 1/5] END mlpregressor__alpha=0.1, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-0.983 total time= 5.5min
+[CV 2/5] END mlpregressor__alpha=0.1, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-1.375 total time= 5.4min
+[CV 3/5] END mlpregressor__alpha=0.1, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-2.180 total time= 6.0min
+[CV 4/5] END mlpregressor__alpha=0.1, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-0.533 total time= 5.1min
+[CV 5/5] END mlpregressor__alpha=0.1, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-1.189 total time= 6.0min
+[CV 1/5] END mlpregressor__alpha=0.1, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-0.826 total time=  46.1s
+[CV 2/5] END mlpregressor__alpha=0.1, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-1.639 total time=  52.8s
+[CV 3/5] END mlpregressor__alpha=0.1, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-1.622 total time=  50.5s
+[CV 4/5] END mlpregressor__alpha=0.1, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-0.718 total time=  51.7s
+[CV 5/5] END mlpregressor__alpha=0.1, mlpregressor__hidden_layer_sizes=(8,), mlpregressor__max_iter=25, mlpregressor__solver=lbfgs;, score=-1.220 total time=  47.8s
