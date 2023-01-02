@@ -1,4 +1,4 @@
-[mlp_regression_sm]
+[mlp_regression_md]
 Fitting 5 folds for each of 16 candidates, totalling 80 fits
 [CV 1/5] END mlpregressor__alpha=0.0001, mlpregressor__hidden_layer_sizes=(4, 4), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-0.733 total time= 9.7min
 [CV 2/5] END mlpregressor__alpha=0.0001, mlpregressor__hidden_layer_sizes=(4, 4), mlpregressor__max_iter=25, mlpregressor__solver=adam;, score=-0.690 total time= 9.6min
